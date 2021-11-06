@@ -9,6 +9,8 @@
 <body>
     <h1>Curso de Git e GitHub</h1>
     <p>Curso de introducao ao git e github</p>
-    
+    <p>Git é um potente sistema de versionamentos</p>
+    <p>conteudo alterado no github</p>
+    <p>Ultima atualização</p>
 </body>
 </html>
